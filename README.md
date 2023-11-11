@@ -21,6 +21,7 @@ E-Commerce Brazil ingin menganalisis data pelanggannya untuk menentukan pelangga
 Dua tujuan utama dalam analisis segmentasi pelanggan:
 - Terus memberikan pelayanan prima dan menjaga hubungan dengan pelanggan eksisting untuk meningkatkan penjualan kepada pelanggan saat ini
 - Fokus pada calon pelanggan untuk mendorong pertumbuhan toko jangka panjang
+
 project: [RFM-Analysis-Brazilian-E-Commerce-Public](https://github.com/abliskan/RFM-Analysis-Brazilian-E-Commerce-Public)
 
 ## Certificates
