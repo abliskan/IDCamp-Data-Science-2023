@@ -15,7 +15,16 @@ Akses kelas dari learning path **Data Science** ini didapatkan dari program beas
 - Belajar Penerapan Data Science
 
 ## Projects
-** Coming Soon **
+### Project 1: Data-Analyst-Brazilian-E-Commerce-Public-Dataset
+Dalam proyek ini, analis data perlu mengidentifikasi segmen pelanggan yang bermanfaat untuk memilih pelanggan yang menguntungkan berguna untuk meningkatkan penjualan toko.
+E-Commerce Brazil ingin menganalisis data pelanggannya untuk menentukan pelanggan mana yang paling berpotensi dalam penjualan toko.
+Dua tujuan utama dalam analisis segmentasi pelanggan:
+- Terus memberikan pelayanan prima dan menjaga hubungan dengan pelanggan eksisting untuk meningkatkan penjualan kepada pelanggan saat ini
+- Fokus pada calon pelanggan untuk mendorong pertumbuhan toko jangka panjang
+project: [RFM-Analysis-Brazilian-E-Commerce-Public](https://github.com/abliskan/RFM-Analysis-Brazilian-E-Commerce-Public)
 
 ## Certificates
-** Coming Soon **
+[Belajar Dasar Data Science](https://www.dicoding.com/certificates/JMZV1RQK3XN9)
+[Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/07Z686JQJXQR)
+[Belajar Dasar Sructured Query Language (SQL)](https://www.dicoding.com/certificates/2VX3635VNXYQ)
+[Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1RXY0V2RMZVM)
