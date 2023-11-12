@@ -25,7 +25,7 @@ Dua tujuan utama dalam analisis segmentasi pelanggan:
 project: [RFM-Analysis-Brazilian-E-Commerce-Public](https://github.com/abliskan/RFM-Analysis-Brazilian-E-Commerce-Public)
 
 ## Certificates
-[Belajar Dasar Data Science](https://www.dicoding.com/certificates/JMZV1RQK3XN9)
-[Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/07Z686JQJXQR)
-[Belajar Dasar Sructured Query Language (SQL)](https://www.dicoding.com/certificates/2VX3635VNXYQ)
-[Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1RXY0V2RMZVM)
+[Belajar Dasar Data Science](https://www.dicoding.com/certificates/JMZV1RQK3XN9) <br>
+[Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/07Z686JQJXQR) <br>
+[Belajar Dasar Sructured Query Language (SQL)](https://www.dicoding.com/certificates/2VX3635VNXYQ) <br>
+[Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1RXY0V2RMZVM) <br>
